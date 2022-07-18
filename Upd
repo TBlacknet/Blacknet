@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.4",
-  "ReleaseNotes": "Nova Atualização Disponível\nDia 18/07/2022\nHora: 12:59\n\nOperadora atualizada: \n🟣 VIVO |🔵 TIM | 🟡 OI \nRecomendamos testar todas opções ativando e desativando o modo avião!\n\nRecomendado atualizar!",
+  "Version": "1.0.5",
+  "ReleaseNotes": "Nova Atualização Disponível\nDia 18/07/2022\nHora: 14:57\n\nOperadora atualizada: \n🟣 VIVO |🔵 TIM | 🟡 OI \nRecomendamos testar todas opções ativando e desativando o modo avião!\n\nRecomendado atualizar!",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Blacknet/main/Upd",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
   "EmailFeedback": "Black.agsx@gmail.com",
@@ -92,10 +92,10 @@
     {
      "Name": "🟣INJECT PROXY 1",
      "FLAG": "vivo",
-      "Payload": "GET wss://support.deezer.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "support.deezer.com",
-      "TlsIP": "172.67.165.43",
-      "ProxyIP": "",
+      "Payload": "GET wss://rapehun.com// HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "rapehun.com",
+      "TlsIP": "",
+      "ProxyIP": "rapehun.com",
       "ProxyPort": "443",
       "Info": "Tlsws"
   },

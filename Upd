@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.2",
+  "Version": "1.0.3",
   "ReleaseNotes": "Nova Atualização Disponível\nDia 14/07/2022\nHora: 13:05\n\nOperadora atualizada: \n🟣 VIVO |🔵 TIM | 🟡 OI \nRecomendamos testar todas opções ativando e desativando o modo avião!\n\nRecomendado atualizar!",
   "UrlUpdate": "https://raw.githubusercontent.com/TBlacknet/Blacknet/main/Upd",
   "Sms": "https://raw.githubusercontent.com/Conecta4g_site/main/UrlSms",
@@ -69,12 +69,12 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "🟣 DDD (91,92)",
+      "Name": "🟣 DDD",
       "FLAG": "vivo",
-      "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss://premium-vivo360.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": 
-"mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "104.16.56.6",
+"premium-vivo360.vivo.com.br",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"

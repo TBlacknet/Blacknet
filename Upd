@@ -68,9 +68,9 @@
       "Info": "Proxy"
     },
     {
-      "Name": "💜VIVO [03]",
+      "Name": "🟣VIVO [SSL 1]",
       "FLAG": "vivo",
-      "Payload": "GET wss://digeverse.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET wss:digeverse.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
       "SNI": "digeverse.com",
       "TlsIP": "digeverse.com",
       "ProxyIP": "",
